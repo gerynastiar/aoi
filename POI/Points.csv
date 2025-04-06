@@ -1,0 +1,135 @@
+namobj;kode;fcode;srs_id;alamat;prov;kabkot;kd_prov;kd_kabkot;hirarki_p;kode_hirarki
+Calang  ;CLG;CB01050400;WGS1984;Jl. Pelabuhan No. 9 Calang Kab Aceh Java Nanggroe Aceh Darussalam 23654 Telp.0654-2210219, Fax. 0654-7000890 Email : upp.calang@gmail.com / uppcalang@dephub.go.id;Aceh;Aceh Jaya ;11;11,14;Pelabuhan Pengumpan;PP
+Kuala Langsa  ;KUA;CB01050400;WGS1984;Jl. Pelabuhan No. 04 Kuala Langsa NAD 24451 TelPulau 0641-23459, Fax. 0641-21663 Email : ad_klgs@yahoo.com / ksopkualalangsa@dephub.go.id;Aceh;Langsa  ;11;11,74;Pelabuhan Pengumpan;PP
+Lhokseumawe/Kreung Geukeh ;LSW;CB01050400;WGS1984;Jl. Pelabuhan No. 1 Lhoksumawe 24315 Telp/Fax. 0645-43485 Email : adpel_lsm3@yahoo.co.id / ksoplhokseumawe@dephub.go.id;Aceh;Aceh Utara ;11;11,08;Pelabuhan Pengumpan;PP
+Malahayati  ;MLH;CB01050400;WGS1984;Jl. Patimura No. 89 Kel. Sukaramai Blower, Banda Aceh Telp/Fax. 0651-48555 Email : adpelmalahayati@yahoo.com / ksopmalahayati@dephub.go.id;Aceh;Banda Aceh ;11;11,71;Pelabuhan Pengumpan;PP
+Meulaboh  ;MEQ;CB01050400;WGS1984;Jl. T. Chik Ditiro No. 17 Meulaboh, Aceh Barat NAD 23611 Telp/Fax. 0655- 7551443 Email : adpelmeulaboh@yahoo.com / ksopmeulaboh@dephub.go.id;Aceh;Aceh Barat ;11;11,05;Pelabuhan Pengumpan;PP
+Sabang   ;SBG;CB01050400;WGS1984;Jl. Malahayati No. 82 Sabang NAD 23512 TelPulau 0652-21016, Fax. 0652-21017 Email : adpelsabang@yahoo.co.id / ksopsabang@dephub.go.id;Aceh;Sabang  ;11;11,72;Pelabuhan Utama;PU
+Singkil  ;SNL;CB01050400;WGS1984;Jl. Utama No. 20 Pulo Sarok Singkil, Kab. Aceh Singkil 24785;Aceh;Aceh Singkil ;11;11,1;Pelabuhan Pengumpan;PP
+Belawan   ;BLW;CB01050400;WGS1984;JL. Suar No. 1 Pelabuhan Belawan Medan, Sumut - 20411;Sumatera Utara;Medan  ;12;12,71;Pelabuhan Utama;PU
+Gunung Sitoli ;GNS;CB01050400;WGS1984;Jl. Yos Sudarso No. 194 Km. 2 Pelabuhan Angin Gunung Sitoli Sumatera Utara 22812;Sumatera Utara;GunungSitoli ;12;12,78;Pelabuhan Pengumpan;PP
+Kuala Tanjung  ;KTJ;CB01050400;WGS1984;Jl. Pelabuhan Kuala Tanjung Kec. Sei Suka Kab. Batu Bara Sumatera Utara 21257;Sumatera Utara;Batu bara  ;12;12,19;Pelabuhan Utama;PU
+Lahewa  ;LHA;CB01050400;WGS1984;Jl. Bowo No. 1 Kel. Pasar Lahewa Kab. Nias Utara, Suamtera Utara 22853;Sumatera Utara;Nias Utara ;12;12,24;Pelabuhan Pengumpan Regional;PR
+Natal/ Sikara-kara;INL;CB01050400;WGS1984;Mandailing Natal-Sumatera Utara;Sumatera Utara;Mandailing Natal ;12;12,13;Pelabuhan Pengumpan Regional;PR
+Pangkalan Dodek  ;PDD;CB01050400;WGS1984;Jl. Pelabuhan Desa Nenas Siau Batubara, Suamtera Utara 21258 Telp/Fax. 0622-5892962, 5892970 Email : kanpelpangkalandodek@yahoo.co.id / upppangkalandodek@dephub.go.id;Sumatera Utara;Batu bara  ;12;12,19;Pelabuhan Lokal;PL
+Pangkalan Susu  ;PKS;CB01050400;WGS1984;Jl. Pelabuhan No. 05 Pangkalan Susu Langkat Sumatera Utara 20858;Sumatera Utara;Langkat  ;12;12,05;Pelabuhan Pengumpan;PP
+Pulau Tello ;PTE;CB01050400;WGS1984;PULAU TELLO - NIAS SELATAN;Sumatera Utara;Nias Selatan ;12;12,14;Pelabuhan Pengumpan;PP
+Sibolga   ;SLG;CB01050400;WGS1984;Jl. Horas Pelabuhan Sibolga, Sibolga Sumatera Utara 22532;Sumatera Utara;Sibolga  ;12;12,73;Pelabuhan Pengumpan;PP
+Sirombu  ;SRU;CB01050400;WGS1984;SIROMBU - NIAS BARAT;Sumatera Utara;Nias Barat ;12;12,25;Pelabuhan Pengumpan Regional;PR
+Tanjung Beringin ;TBE;CB01050400;WGS1984;ASAHAN;Sumatera Utara;Serdang Bedagai ;12;12,18;Pelabuhan Pengumpan Regional;PR
+Teluk Dalam ;TDA;CB01050400;WGS1984;NIAS SELATAN;Sumatera Utara;Nias Selatan ;12;12,14;Pelabuhan Pengumpan Regional;PR
+Teluk Leidong;LIG;CB01050400;WGS1984;Jl. Bondar No. 79 Liendong Sumatera Utara 21475 TelPulau 0623-71071, Fax. 0623-71371 Email : upplaeidong@gmail.com / uppleidong@dephub.go.id;Sumatera Utara;Labuhanbatu Utara;12;12,23;Pelabuhan Pengumpan;PP
+Muara Padang  ;MPG;CB01050400;WGS1984;Jl. Tanjung Priok No. 4 Teluk Bayur Sumatera Barat 25217;Sumatera Barat;Padang  ;13;13,71;Pelabuhan Pengumpan Regional;PR
+Teluk Bayur  ;TBY;CB01050400;WGS1984;Jl. Tanjung Priok No. 4 Teluk Bayur Sumatera Barat 25217;Sumatera Barat;Padang  ;13;13,71;Pelabuhan Utama;PU
+Bagan Siapi-api ;IBI;CB01050400;WGS1984;Jl. Syahbandar No. 4/B Bagan Siapiapi TelPulau 0767-21264, Fax. 0767-23150 adpelbagansiapiapi@yahoo.com;Riau;Rokan Hilir ;14;14,07;Pelabuhan Pengumpan Regional;PR
+Bengkalis   ;BKI;CB01050400;WGS1984;Jl. A. Yani No. 5 Rt. 01/Rw. 01 Bengkalis - Riau 28712;Riau;Bengkalis  ;14;14,03;Pelabuhan Pengumpan;PP
+Dumai   ;DUM;CB01050400;WGS1984;Jl. Yos Sudarso No. 9 Dumai Riau 28814;Riau;Dumai  ;14;14,72;Pelabuhan Utama;PU
+Kuala Enok ;ENO;CB01050400;WGS1984;riau;Riau;Indragiri Hilir ;14;14,04;Pelabuhan Pengumpan;PP
+Meranti/ Dorak  ;MRT;CB01050400;WGS1984;Jl. Pelabuhan No. 2 Selat Panjang Riau 28753;Riau;Kepulauan Meranti ;14;14,1;Pelabuhan Pengumpan Regional;PR
+Rengat/Kuala Cinaku ;RCI;CB01050400;WGS1984;Jl. Ahmad Yani No. 10 Rengat Inhu - Riau 29319 TelPulau 0769-323355, Fax. 0769-323466 ksoprengat@dephub.go.id;Riau;Indragiri Hulu ;14;14,02;Pelabuhan Pengumpan Regional;PR
+Selat Panjang ;SLJ;CB01050400;WGS1984;Jl. Pelabuhan No. 2 Selat Panjang Riau 28753;Riau;Kepulauan Meranti ;14;14,1;Pelabuhan Pengumpan;PP
+Sungai Guntung ;SUQ;CB01050400;WGS1984;INDRAGIRI HILIR;Riau;Indragiri Hilir ;14;14,04;Pelabuhan Pengumpan Regional;PR
+Tanjung Medang  ;TMD;CB01050400;WGS1984;BENGKALIS;Riau;Bengkalis  ;14;14,03;Pelabuhan Pengumpan Regional;PR
+Tembilahan ;TLN;CB01050400;WGS1984;Jl. Jend. Sudirman No. 75 Tembilahan Kab. Indragiri Hilir - Riau 29212 Telp/Fax. 0768-22033 Email : ksoptembilahan@gmail.com;Riau;Indragiri Hilir ;14;14,04;Pelabuhan Pengumpan;PP
+Muara Sabak;MSK;CB01050400;WGS1984;Jl. Syahbandar No. 5 Jambi;Jambi;Tanjung Jabung Timur;15;15,07;Pelabuhan Pengumpan;PP
+Talang Duku ;TNU;CB01050400;WGS1984;Jl. Raya Pelabuhan Km. 9 Talang Dukuh - Jambi 36381 TelPulau 0741-22844, 22020, Fax. 0741-25280 ksopjambi@dephub.go.id;Jambi;Muaro Jambi ;15;15,05;Pelabuhan Pengumpan;PP
+Boom Baru/ Palembang  ;ING;CB01050400;WGS1984;Banyuasin-Sumatera Selatan;Sumatera Selatan;Palembang  ;16;16,71;Pelabuhan Utama;PU
+Tanjung Api-Api  ;TGP;CB01050400;WGS1984;Kab. Banyuasin, Rimau Sungsang, Palembang, Kabupaten Banyu Asin, Sumatera Selatan 30971;Sumatera Selatan;Banyuasin  ;16;16,07;Pelabuhan Pengumpan;PP
+Pulau Baai  ;BKS;CB01050400;WGS1984;Jl. Ir. Rustandi Sugianto Pulau Baai Bengkulu 38216;Bengkulu;Bengkulu  ;17;17,71;Pelabuhan Utama;PU
+Kota Agung/ Batu Balai ;TAG;CB01050400;WGS1984;LAMPUNG SELATAN;Lampung;Tanggamus  ;18;18,06;Pelabuhan Pengumpan;PP
+Panjang  ;PNJ;CB01050400;WGS1984;Jl. Yos Sudarso No. 34A Panjang Bandar Lampung, Lampung 35241;Lampung;Bandar Lampung ;18;18,71;Pelabuhan Utama;PU
+Belinyu   ;BLU;CB01050400;WGS1984;-;Kepulauan Bangka Belitung;Bangka  ;19;19,01;Pelabuhan Pengumpan;PP
+Muntok  ;MUO;CB01050400;WGS1984;Jl. Yos Sudarso No. 1 Muntok Bangka Belitung 33311;Kepulauan Bangka Belitung;Bangka Barat ;19;19,05;Pelabuhan Pengumpan Regional;PR
+Pangkal Balam  ;PGX;CB01050400;WGS1984;-;Kepulauan Bangka Belitung;Pangkal Pinang  ;19;19,71;Pelabuhan Pengumpan;PP
+Tanjung Pandan  ;TJQ;CB01050400;WGS1984;Jl. Pelabuhan No. 1 Tanjung Pandan Belitung 33411;Kepulauan Bangka Belitung;Belitung  ;19;19,02;Pelabuhan Pengumpan;PP
+Batam / Batu Ampar ;BUR;CB01050400;WGS1984;Batam;Kepulauan Riau;Batam  ;21;21,71;Pelabuhan Utama;PU
+Sei Kolak Kijang ;SKJ;CB01050400;WGS1984;Jl. Pelabuhan Sri Bayintan No. 9 Kijang - Kepri 29151 TelPulau 0771-463765, Fax. 0771-61561 ksopkijang@dephub.go.id;Kepulauan Riau;Bintan  ;21;21,01;Pelabuhan Pengumpan;PP
+Tanjung Balai Karimun ;TJB;CB01050400;WGS1984;-;Kepulauan Riau;Karimun  ;21;21,02;Pelabuhan Pengumpan;PP
+Tanjung Batu Kundur ;TBD;CB01050400;WGS1984;Jl. Pemuda No. 21 Tanjung Batu Kota Kec. Kundur, Kab. Karimun Kepulauan Riau 29662 TelPulau 0779-21020, Fax. 0779-21001 upptanjungbatukundur@dephub.go.id;Kepulauan Riau;Karimun  ;21;21,02;Pelabuhan Pengumpan;PP
+Tanjung Pinang ;TNJ;CB01050400;WGS1984;Jl. SM. Amin No. 18 Kota Tanjung Pinang Kepulauan Riau 29111 Telp/Fax. 0771-21014 ksoptanjungpinang@dephub.go.id;Kepulauan Riau;Tanjung Pinang ;21;21,72;Pelabuhan Pengumpan;PP
+Marunda  ;IMW;CB01050400;WGS1984;Jl. Jayapura No. 1 KBN Marunda Cilincing Jakarta Utara 141210;DKI Jakarta;Adm. Jakarta Utara ;31;31,72;Pelabuhan Pengumpan;PP
+Tanjung priok ;TPR;CB01050400;WGS1984;Jl. Padamarang No. 4 Tanjung Priok Jakarta Utara 14310;DKI Jakarta;Adm. Jakarta Utara ;31;31,72;Pelabuhan Utama;PU
+Cirebon   ;CBN;CB01050400;WGS1984;Jl. Donggala No. 3 Cirebon Jawa Barat 45112;Jawa Barat;Cirebon  ;32;32,09;Pelabuhan Pengumpan;PP
+Pangandaran/Bojongsalawe   ;PDR;CB01050400;WGS1984;INDRAMAYU;Jawa Barat;Pangandaran  ;32;32,18;Pelabuhan Lokal;PL
+Patimban   ;PTM;CB01050400;WGS1984;PAMANUKAN;Jawa Barat;Subang  ;32;32,13;Pelabuhan Utama;PU
+Tanjung Emas  ;SRG;CB01050400;WGS1984;Jl. Yos Sudarso No. 30 Kel. Tanjung Emas Kec. Semarang Jateng 50174 Telp/Fax. 024-3852335 ksoptanjungemas@dephub.go.id;Jawa Tengah;Semarang  ;33;33,22;Pelabuhan Utama;PU
+Tanjung Intan  ;CXP;CB01050400;WGS1984;0;Jawa Tengah;Cilacap  ;33;33,01;Pelabuhan Pengumpan;PP
+Banyu Wangi/ Boom;BWB;CB01050400;WGS1984;Jl. Jend. Gatot Subroto No. 2 Komplek Pelabuhan LCM Ketapang Banyuwangi Jawa Timur - 68401;Jawa Timur;Banyuwangi ;35;35,1;Pelabuhan Pengumpan Regional;PR
+Gresik   ;GRE;CB01050400;WGS1984;Jl. Yos Sudarso No. 36 Gresik Jawa Timur 61114;Jawa Timur;Gresik  ;35;35,25;Pelabuhan Pengumpan;PP
+Kalianget   ;KAT;CB01050400;WGS1984;Jl. Komplek Pelabuhan No. 02 Kalianget Sumenep Jawa Timur 69471;Jawa Timur;Sumenep  ;35;35,29;Pelabuhan Pengumpan Regional;PR
+Pasuruan   ;PAZ;CB01050400;WGS1984;Jl. Yos Sudarso No. 158 Pasuruan Jatim 67126;Jawa Timur;Pasuruan  ;35;35,14;Pelabuhan Pengumpan Regional;PR
+Probolinggo   ;AEA;CB01050400;WGS1984;-;Jawa Timur;Probolinggo  ;35;35,13;Pelabuhan Pengumpan;PP
+Tanjung Perak  ;SUB;CB01050400;WGS1984;Jl. Kalimas Baru No. 194 Surabaya Jawa Timur 60165;Jawa Timur;Surabaya  ;35;35,78;Pelabuhan Utama;PU
+Banten   ;IBP;CB01050400;WGS1984;Jl. Yos Sudarso No. 120 Merak Banten 42438;Banten;Cilegon  ;36;36,72;Pelabuhan Utama;PU
+Benoa   ;BOA;CB01050400;WGS1984;Jl. Raya Pelabuhan Benoa, Denpasar Bali 80223;Bali;Denpasar  ;51;51,71;Pelabuhan Utama;PU
+Celukan Bawang  ;CEB;CB01050400;WGS1984;Jl. Pelabuhan No. 36 Celukan Bawang Bali 81155;Bali;Buleleng  ;51;51,08;Pelabuhan Pengumpan;PP
+Badas   ;BAD;CB01050400;WGS1984;Jl. Raya Pelabuhan Badas Sumbawa Besar Nusa Tenggara Barat 84351;Nusa Tenggara Barat;Sumbawa  ;52;52,04;Pelabuhan Pengumpan;PP
+Bima   ;BMU;CB01050400;WGS1984;Jl. Martadinata No. 1 Bima - Nusa Tenggara Barat 84114;Nusa Tenggara Barat;Bima  ;52;52,06;Pelabuhan Pengumpan;PP
+Lembar  ;LMR;CB01050400;WGS1984;Jl. Raya Pelabuhan Lembar, Lombok Barat - NTB 83364;Nusa Tenggara Barat;Lombok Barat ;52;52,01;Pelabuhan Pengumpan;PP
+Ende   ;ENE;CB01050400;WGS1984;Jl. Adi Sucipto Ippi Ende NTT 86316;Nusa Tenggara Timur;Ende  ;53;53,08;Pelabuhan Pengumpan;PP
+Ippi   ;IPI;CB01050400;WGS1984;Jl. Adi Sucipto Ippi Ende NTT 86316;Nusa Tenggara Timur;Ende  ;53;53,08;Pelabuhan Pengumpan;PP
+Kalabahi   ;KBH;CB01050400;WGS1984;Jl. R.E Marthadinata No. 7 KomPulau Pelabuhan Kalabahi - Alor NTT 85813 Telp/Fax. 0386-21417 ksop_kalabahi@dephub.go.id;Nusa Tenggara Timur;Alor  ;53;53,05;Pelabuhan Pengumpan Regional;PR
+Labuan Bajo ;LBO;CB01050400;WGS1984;Jl. Yos Sudarso Labuan Bajo NTT 86554;Nusa Tenggara Timur;Manggarai Barat ;53;53,15;Pelabuhan Pengumpan;PP
+Maumere/ Lorens Say ;MOF;CB01050400;WGS1984;Jl. R. E Marthadinata No. 7 Maumere - Nusa Tenggara Timur 86113;Nusa Tenggara Timur;Sikka  ;53;53,07;Pelabuhan Pengumpan;PP
+Reo   ;REO;CB01050400;WGS1984;Jl. Pelabuhan Reo Kec. Reo Kab. Manggarai Kediri, Nusa Tenggara Timur - 86592;Nusa Tenggara Timur;Manggarai  ;53;53,1;Pelabuhan Pengumpan;PP
+Seba  ;ISA;CB01050400;WGS1984;Jl. Pelabuhan No. 01 Kec.Sabu Barat Kab.Seburaijua Seba Nusa Tenggara Timur;Nusa Tenggara Timur;Sabu Raijua ;53;53,2;Pelabuhan Pengumpan;PP
+Tenau/ Kupang   ;TQP;CB01050400;WGS1984;Jl. Yos Sudarso No. 27 Tenau Kupang NTT 85351;Nusa Tenggara Timur;Kupang  ;53;53,01;Pelabuhan Utama;PU
+Waingapu  ;WGP;CB01050400;WGS1984;Jl. Trikora No. 19 Saonek Kab. Raja Ampat Prov. Papua Barat;Nusa Tenggara Timur;Sumba Timur ;53;53,11;Pelabuhan Pengumpan;PP
+Pontianak   ;PNK;CB01050400;WGS1984;Jl. Rahadi Usman No. 2 Pontianak Kalimantan Barat;Kalimantan Barat;Pontianak  ;61;61,71;Pelabuhan Utama;PU
+Sintete   ;SNE;CB01050400;WGS1984;Jl. Pelabuhan No. 1 Sintete Pemangkat Prov. Kalimantan Barat 79453;Kalimantan Barat;Sambas  ;61;61,01;Pelabuhan Pengumpan;PP
+Kuala Pembuang  ;KPE;CB01050400;WGS1984;Jl. AIS Nasution Kuala Pembuang Kalimantan Tengah 74211;Kalimantan Tengah;Seruyan  ;62;62,07;Pelabuhan Pengumpan Regional;PR
+Kumai  ;KUM;CB01050400;WGS1984;Jl. Bendahara No. 230 Kumai Kab. Kotawaringin Barat - Kalteng 74181;Kalimantan Tengah;Kotawaringin Barat ;62;62,01;Pelabuhan Pengumpan;PP
+Pangkalan Bun ;PLB;CB01050400;WGS1984;Jl. Pangeran Antasari KomPulau Pelabuhan Pangkalan Bun Kalimantan Tengah;Kalimantan Tengah;Kotawaringin Barat ;62;62,01;Pelabuhan Lokal;PL
+Pegatan Mendawai  ;PMI;CB01050400;WGS1984;Jl. Merdeka No 2 Pegatan Mendawai Klateng 74463;Kalimantan Tengah;Katingan  ;62;62,06;Pelabuhan Pengumpan Regional;PR
+Pulang Pisau ;PPS;CB01050400;WGS1984;Jl. Samudera No. 137 Rt. XIII Pulang Pisau Kalimantan Tengah 73561;Kalimantan Tengah;Pulang Pisau ;62;62,11;Pelabuhan Pengumpan;PP
+Sampit  ;SMQ;CB01050400;WGS1984;Jl. Iskandar No. 3 Sampit Kota Waringin Timur Kalimantan Tengah 74322;Kalimantan Tengah;Kotawaringin Timur ;62;62,02;Pelabuhan Pengumpan;PP
+Samuda  ;SMA;CB01050400;WGS1984;Jl. H.M. Noor No .5 Rt.01/Rw.01 Samuda Kalimantan Tengah 74363;Kalimantan Tengah;Kotawaringin Timur ;62;62,02;Pelabuhan Lokal;PL
+Sukamara   ;SAA;CB01050400;WGS1984;Jl. Pelabuhan No. 14 Sukamara Kalimantan Tengah 74172;Kalimantan Tengah;Sukamara  ;62;62,08;Pelabuhan Pengumpan;PP
+Banjarmasin   ;BDJ;CB01050400;WGS1984;Jl. Duyung Raya KomPulau Lumba-lumba No. 45 Banjarmasin Kalimantan Selatan 70119;Kalimantan Selatan;Banjarmasin  ;63;63,71;Pelabuhan Utama;PU
+Satui  ;SUR;CB01050400;WGS1984;Jl. Kuripan No. 5 Rt.24Sungai Danau Satui Kab. Tanah Bumbu Sungai Danau Satui, Kalsel 72175;Kalimantan Selatan;Tanah Bumbu ;63;63,1;Pelabuhan Pengumpan;PP
+Balikpapan   ;BPN;CB01050400;WGS1984;Jl. Yos Sudarso No. 1 Balikpapan Kalimantan Timur 76111;kalimantan Timur;Balikpapan  ;64;64,71;Pelabuhan Utama;PU
+Lhok Tuan   ;LTU;CB01050400;WGS1984;Gedung Shipping Lt.1 PT Pupuk Kalimantan Timur -Bontang 75313;kalimantan Timur;Bontang  ;64;64,74;Pelabuhan Pengumpan;PP
+Sangatta  ;SGQ;CB01050400;WGS1984;Jl. Pelabuhan No ,6 Sangatta .Kab .Kutai Timur Kaliamntan Timur 75612;kalimantan Timur;Kutai Timur ;64;64,08;Pelabuhan Pengumpan;PP
+Sangkulirang  ;SKI;CB01050400;WGS1984;Jl. Pelabuhan No. 20 Sankulirang Kaltim 75384;kalimantan Timur;Kutai Timur ;64;64,08;Pelabuhan Pengumpan Regional;PR
+Tanjung Laut  ;TLA;CB01050400;WGS1984;Jl. Pelabuahan No.28 Rt.10 Tanjung Laut Indah Bontang Kalimantan Timur 75321;kalimantan Timur;Bontang  ;64;64,74;Pelabuhan Pengumpan;PP
+Tanjung Redeb  ;TRE;CB01050400;WGS1984;Jl. Pulau Antasari No. 27 Rt.01/Rw.01 Tanjung Redep Kaltim 77312;kalimantan Timur;Berau  ;64;64,03;Pelabuhan Pengumpan;PP
+Nunukan / Tunon Taka  ;TTK;CB01050400;WGS1984;Jl. AIS Nasution Kuala Pembuang Kalimantan Tengah 74211;Kalimantan Utara;Nunukan  ;65;65,03;Pelabuhan Pengumpan;PP
+Tarakan / Malundung;MLD;CB01050400;WGS1984;Jl. Yos Sudarso No. 8 Lingkas Ujug Tarakan Kalimantan Utara 77126;Kalimantan Utara;Tarakan  ;65;65,71;Pelabuhan Utama;PU
+Labuhan Uki ;LUK;CB01050400;WGS1984;Jl. Pelabuhan No. 128 Desa Labuhan Uki Kec. Loka Kab. Bolaang Mongondow Sulut 95761; Sulawesi Utara;Bolaang Mongondow ;71;71,01;Pelabuhan Pengumpan;PP
+Manado   ;MDC;CB01050400;WGS1984;Jl. Pelabuhan Manado, Sulawesi Utara 95111 TelPulau 0431-867054, Fax. 0431-859721 Email : adpel_manado@yahoo.com / ksop_manado@dephub.go.id; Sulawesi Utara;Manado  ;71;71,71;Pelabuhan Pengumpan;PP
+Banggai  ;BGG;CB01050400;WGS1984;Jl. KomPulau Pelabuhan Banggai Kab. Banggai Kepulauan Sulteng 94791;Sulawesi Tengah;Banggai Kepulauan ;72;72,07;Pelabuhan Pengumpan;PP
+Donggala   ;DNA;CB01050400;WGS1984;0;Sulawesi Tengah;Donggala  ;72;72,03;Pelabuhan Pengumpan;PP
+Luwuk   ;LUW;CB01050400;WGS1984;Jl. Yos Sudarso No. 1 Kel. Karaton Kec. Luwuk Kab. Banggai Sulteng 94715;Sulawesi Tengah;Banggai  ;72;72,01;Pelabuhan Pengumpan;PP
+Pantoloan   ;PTL;CB01050400;WGS1984;Jl. Mutiara No.4 Donggala;Sulawesi Tengah;Palu  ;72;72,71;Pelabuhan Utama;PU
+Toli-toli   ;TLI;CB01050400;WGS1984;Jl. KomPulau Pelabuhan Tolo-toli Sulawesi Tengah 94500;Sulawesi Tengah;Toli Toli  ;72;72,04;Pelabuhan Pengumpan;PP
+Wani   ;WNQ;CB01050400;WGS1984;Jl. Pelabuhan Niaga No. 1 Sape Bima Kab. Bima Nusa Tenggara Barat;Sulawesi Tengah;Donggala  ;72;72,03;Pelabuhan Pengumpan;PP
+Bajoe   ;BAE;CB01050400;WGS1984;Jl. Pelabuhan No.21 Bajoe Kab. Bone Sulsel 92781 TelPulau 0481-21436, Fax. 0481-2911962 upp.bajoe@dephub.go.id;Sulawesi Selatan;Bone  ;73;73,08;Pelabuhan Pengumpan;PP
+Makassar   ;MAK;CB01050400;WGS1984;Jl. Madura No. 1 Makasar - 90173 TelPulau 0411-3616444, 3632881, 3632882, Fax. 0411-3616444 Email : op_makassar@yahoo.com / opIV_mks@dephub.go.id;Sulawesi Selatan;Makassar  ;73;73,71;Pelabuhan Utama;PU
+Pare-Pare   ;ARE;CB01050400;WGS1984;Jl.Tarakan, Komplek Pelabuhan Cappa Ujung Parepare Sulawesi Selatan 91112;Sulawesi Selatan;Parepare  ;73;73,72;Pelabuhan Pengumpan;PP
+Selayar/Benteng/Rauf Rahman  ;YAR;CB01050400;WGS1984;Jl.Pelabuhan No. 25 Desa Babang Kec. Bacan Timur 97791;Sulawesi Selatan;Kepulauan Selayar  ;73;73,01;Pelabuhan Pengumpan;PP
+Bau-Bau/Murhum   ;BBM;CB01050400;WGS1984;Jl. Yos Sudarso No. 5 Kel. Wale Kec. Wolio Kota Baubau Provinsi Sultra 93711;Sulawesi Tenggara;Bau Bau  ;74;74,72;Pelabuhan Pengumpan;PP
+Kendari/Bungkutoko   ;KDI;CB01050400;WGS1984;Jl.Jendral Sudirman NO .68 Rt.01 /Rw.01 Kendari Sulawesi Tenggara 93127;Sulawesi Tenggara;Kendari  ;74;74,71;Pelabuhan Pengumpan;PP
+Kolaka   ;KOL;CB01050400;WGS1984;Jl. Dermaga No. 1, Kolaka Sultra 93512;Sulawesi Tenggara;Kolaka  ;74;74,01;Pelabuhan Pengumpan;PP
+Anggrek  ;NGG;CB01050400;WGS1984;Jl. Pelabuhan Anggrek Desa Ilangara Kec. Anggrek Kab. Gorontalo Utara 96252;Gorontalo;Gorontalo Utara ;75;75,05;Pelabuhan Pengumpan;PP
+Gorontalo   ;GTO;CB01050400;WGS1984;Jl.Manyor Dullah Kota Gorontalo .Gorontalo 96118;Gorontalo;Gorontalo  ;75;75,01;Pelabuhan Pengumpan;PP
+Mamuju   ;MJU;CB01050400;WGS1984;Jl. Yos Sudarso No. 2 Mamuju Kab. Mamuju Sulbar 91511;Sulawesi Barat;Mamuju  ;76;76,02;Pelabuhan Pengumpan;PP
+Ambon   ;AMQ;CB01050400;WGS1984;Jl.Yos Komp.Pelabuhan Ambon Maluku 97126;Maluku;Ambon  ;81;81,71;Pelabuhan Utama;PU
+Banda Naira ;NDA;CB01050400;WGS1984;Jl.Pelabuhan Banda Naira Kab Maluku Tengah 97543;Maluku;Maluku Tengah ;81;81,01;Pelabuhan Pengumpan Regional;PR
+Leksula  ;LQA;CB01050400;WGS1984;Jl. KomPulau Pelabuhan Leksula, Kec. Leksula Kab. Buru Selatan - Ambon Maluku 97573;Maluku;Buru Selatan ;81;81,09;Pelabuhan Pengumpan Regional;PR
+Leksula  ;NAM;CB01050400;WGS1984;Jl.Dermaga Pelabuhan Namlea Kabupaten Buru Maluku 97571;Maluku;Buru  ;81;81,04;Pelabuhan Pengumpan;PP
+Saumlaki ;SXK;CB01050400;WGS1984;Jl.Pelabuhan Saumlaki Kec. Tanibar Selatan Kab. Saumlaki Maluku 97762;Maluku;Kepulauan Tanimbar;81;81,03;Pelabuhan Pengumpan;PP
+Tual   ;TUA;CB01050400;WGS1984;Jl.Pelabuhan Hurmala Tulehu Maluku 97582;Maluku;Tual  ;81;81,72;Pelabuhan Pengumpan;PP
+Daruba;DRA;CB01050400;WGS1984;Jl. KomPulau Pelabuhan Imam Lastori Kab. Pulau Morotai Prov. Malut 97771;Maluku Utara;Pulau Morotai ;82;82,07;Pelabuhan Lokal;PL
+Labuha  ;LBH;CB01050400;WGS1984;Jl.Pelabuhan No. 25 Desa Babang Kec. Bacan Timur 97791;Maluku Utara;Halmahera Selatan ;82;82,04;Pelabuhan Lokal;PL
+Soasio/Goto  ;SIO;CB01050400;WGS1984;Jl. Yos Sudarso Kel. Indonesiana Kota Tidore Kepulauan 97813;Maluku Utara;Tidore Kepulauan ;82;82,72;Pelabuhan Pengumpan Regional;PR
+Ternate/ A. Yani   ;TEI;CB01050400;WGS1984;Jl. Jend. Ahmad Yani Kompleks Pelabuhan Ahmad Yani Ternate Maluku Utara 97724;Maluku Utara;Ternate  ;82;82,71;Pelabuhan Utama;PU
+Tobelo  ;TBO;CB01050400;WGS1984;Jl. Pelabuhan No.1 Tobelo Kab. Halmahera Utara Prov. Maluku Utara;Maluku Utara;Halmahera Utara ;82;82,03;Pelabuhan Pengumpan;PP
+Biak  ;BIK;CB01050400;WGS1984;Jl.Jendral Sudirman No. 53 Biak Papua 98115;Papua;Biak Numfor ;91;91,06;Pelabuhan Pengumpan;PP
+Jayapura   ;DJJ;CB01050400;WGS1984;JL.Koti No,9 Jayapura 99221;Papua;Jayapura  ;91;91,03;Pelabuhan Utama;PU
+Merauke   ;MKQ;CB01050400;WGS1984;Jl. Sabang No. 312 Merauke - Papua 99613;Papua;Merauke  ;91;93,01;Pelabuhan Utama;PU
+Nabire   ;NBX;CB01050400;WGS1984;Jl. Pintu Masuk Pelabuhan No. 1 Nabire Papua 98851;Papua;Nabire  ;91;94,01;Pelabuhan Pengumpan;PP
+Fak-fak   ;FKQ;CB01050400;WGS1984;Jl.Izak Telussa No.1 Fak Fak Papua Barat 98611;Papua Barat;Fak fak  ;92;92,03;Pelabuhan Pengumpan;PP
+Manokwari   ;MKW;CB01050400;WGS1984;Jl.Banjarmasin No 6 Monokwari Papua Barat 98311;Papua Barat;Manokwari  ;92;92,02;Pelabuhan Pengumpan;PP
+Sorong   ;SOQ;CB01050400;WGS1984;Jl.Jendral A, Yani No 19 Sorong Papua Barat 98413;Papua Barat;Sorong  ;92;96,01;Pelabuhan Utama;PU
+Wasior  ;WSR;CB01050400;WGS1984;Jl. Pelabuhan Wonreli Maluku 97653;Papua Barat;Teluk Wondama ;92;92,07;Pelabuhan Pengumpan;PP
+Sapudi   ;ISG;CB01050400;WGS1984;Jl. Pelabuhan No. 1 Gawam Sapudi Kab. Sumenep Madura Jawa Timur 69483;Jawa Timur;Sumenep  ;35;35,29;Pelabuhan Pengumpan Regional;PR
