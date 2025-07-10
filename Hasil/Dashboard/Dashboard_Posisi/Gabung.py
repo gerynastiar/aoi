@@ -1,38 +1,32 @@
 import pandas as pd
 
-# Daftar URL file CSV
+# Daftar path file CSV lokal
 urls = [
-    "https://raw.githubusercontent.com/gerynastiar/aoi/main/Hasil/Dashboard/Dashboard_Posisi/SMBM_1.csv",
-    "https://raw.githubusercontent.com/gerynastiar/aoi/main/Hasil/Dashboard/Dashboard_Posisi/SMBM_2.csv",
-    "https://raw.githubusercontent.com/gerynastiar/aoi/main/Hasil/Dashboard/Dashboard_Posisi/SMBM_3.csv",
-    "https://raw.githubusercontent.com/gerynastiar/aoi/main/Hasil/Dashboard/Dashboard_Posisi/SMBM_4.csv",
-    "https://raw.githubusercontent.com/gerynastiar/aoi/main/Hasil/Dashboard/Dashboard_Posisi/SMBM_5.csv",
-    "https://raw.githubusercontent.com/gerynastiar/aoi/main/Hasil/Dashboard/Dashboard_Posisi/SMBM_6.csv",
-    "https://raw.githubusercontent.com/gerynastiar/aoi/main/Hasil/Dashboard/Dashboard_Posisi/SMBM_7.csv",
-    "https://raw.githubusercontent.com/gerynastiar/aoi/main/Hasil/Dashboard/Dashboard_Posisi/SMBM_8.csv",
-    "https://raw.githubusercontent.com/gerynastiar/aoi/main/Hasil/Dashboard/Dashboard_Posisi/SMBM_9.csv",
-    "https://raw.githubusercontent.com/gerynastiar/aoi/main/Hasil/Dashboard/Dashboard_Posisi/SMBM_10.csv",
-    "https://raw.githubusercontent.com/gerynastiar/aoi/main/Hasil/Dashboard/Dashboard_Posisi/SMBM_11.csv",
-    "https://raw.githubusercontent.com/gerynastiar/aoi/main/Hasil/Dashboard/Dashboard_Posisi/SMBM_1_Pass.csv",
-    "https://raw.githubusercontent.com/gerynastiar/aoi/main/Hasil/Dashboard/Dashboard_Posisi/SMBM_2_Pass.csv",
-    "https://raw.githubusercontent.com/gerynastiar/aoi/main/Hasil/Dashboard/Dashboard_Posisi/SMBM_3_Pass.csv",
-    "https://raw.githubusercontent.com/gerynastiar/aoi/main/Hasil/Dashboard/Dashboard_Posisi/SMBM_4_Pass.csv",
+    r"D:\Semester 7\Skripsi\Data\ArcGIS\git\aoi\Hasil\Dashboard\Dashboard_Posisi\SMBM_1.csv",
+    r"D:\Semester 7\Skripsi\Data\ArcGIS\git\aoi\Hasil\Dashboard\Dashboard_Posisi\SMBM_2.csv",
+    r"D:\Semester 7\Skripsi\Data\ArcGIS\git\aoi\Hasil\Dashboard\Dashboard_Posisi\SMBM_3.csv",
+    r"D:\Semester 7\Skripsi\Data\ArcGIS\git\aoi\Hasil\Dashboard\Dashboard_Posisi\SMBM_4.csv",
+    r"D:\Semester 7\Skripsi\Data\ArcGIS\git\aoi\Hasil\Dashboard\Dashboard_Posisi\SMBM_5.csv",
+    r"D:\Semester 7\Skripsi\Data\ArcGIS\git\aoi\Hasil\Dashboard\Dashboard_Posisi\SMBM_6.csv",
+    r"D:\Semester 7\Skripsi\Data\ArcGIS\git\aoi\Hasil\Dashboard\Dashboard_Posisi\SMBM_7.csv",
+    r"D:\Semester 7\Skripsi\Data\ArcGIS\git\aoi\Hasil\Dashboard\Dashboard_Posisi\SMBM_8.csv",
+    r"D:\Semester 7\Skripsi\Data\ArcGIS\git\aoi\Hasil\Dashboard\Dashboard_Posisi\SMBM_9.csv",
+    r"D:\Semester 7\Skripsi\Data\ArcGIS\git\aoi\Hasil\Dashboard\Dashboard_Posisi\SMBM_10.csv",
+    r"D:\Semester 7\Skripsi\Data\ArcGIS\git\aoi\Hasil\Dashboard\Dashboard_Posisi\SMBM_11.csv",
+    r"D:\Semester 7\Skripsi\Data\ArcGIS\git\aoi\Hasil\Dashboard\Dashboard_Posisi\SMBM_1_Pass.csv",
+    r"D:\Semester 7\Skripsi\Data\ArcGIS\git\aoi\Hasil\Dashboard\Dashboard_Posisi\SMBM_2_Pass.csv",
+    r"D:\Semester 7\Skripsi\Data\ArcGIS\git\aoi\Hasil\Dashboard\Dashboard_Posisi\SMBM_3_Pass.csv",
+    r"D:\Semester 7\Skripsi\Data\ArcGIS\git\aoi\Hasil\Dashboard\Dashboard_Posisi\SMBM_4_Pass.csv"
 ]
 
-
 # Baca semua file ke dalam list DataFrame
-dfs = [pd.read_csv(url) for url in urls]
+dfs = [pd.read_csv(path) for path in urls]
 
 # Gabungkan semua DataFrame
 df_combined = pd.concat(dfs, ignore_index=True)
 
-# Pastikan kolom diff_time_hout hanya berisi angka
-df_combined['diff_time'] = pd.to_numeric(df_combined['diff_time'], errors='coerce')
+# Simpan ke file CSV gabungan
+output_path = r"D:\Semester 7\Skripsi\Data\ArcGIS\git\aoi\Hasil\Dashboard\Dashboard_Posisi\Dashboard_Posisi.csv"
+df_combined.to_csv(output_path, index=False)
 
-# Hapus baris yang NaN (bukan angka)
-df_combined = df_combined.dropna(subset=['diff_time'])
-
-# Simpan ke file CSV
-df_combined.to_csv("Dashboard_Posisi.csv", index=False)
-
-print("sudah")
+print("File gabungan berhasil disimpan.")

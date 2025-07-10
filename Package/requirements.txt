@@ -3,7 +3,7 @@ pytest
 geopandas
 shapely
 folium
-h3
 sedona
 apache-sedona
 spark
+h3==3.7.6
