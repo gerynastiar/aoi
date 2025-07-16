@@ -2,15 +2,15 @@ import pandas as pd
 
 # Daftar URL file CSV
 urls = [
-    "https://raw.githubusercontent.com/gerynastiar/aoi/main/Hasil/SMBM/Manual/V2/SMBM_Manual_1.csv",
-    "https://raw.githubusercontent.com/gerynastiar/aoi/main/Hasil/SMBM/Manual/V2/SMBM_Manual_2.csv",
-    "https://raw.githubusercontent.com/gerynastiar/aoi/main/Hasil/SMBM/Manual/V2/SMBM_Manual_3.csv",
-    "https://raw.githubusercontent.com/gerynastiar/aoi/main/Hasil/SMBM/Manual/V2/SMBM_Manual_4.csv",
-    "https://raw.githubusercontent.com/gerynastiar/aoi/main/Hasil/SMBM/Manual/V2/SMBM_Manual_5.csv",
-    "https://raw.githubusercontent.com/gerynastiar/aoi/main/Hasil/SMBM/Manual/V2/SMBM_Manual_6.csv",
-    "https://raw.githubusercontent.com/gerynastiar/aoi/main/Hasil/SMBM/Manual/V2/SMBM_Manual_7.csv",
-    "https://raw.githubusercontent.com/gerynastiar/aoi/main/Hasil/SMBM/Manual/V2/SMBM_Manual_8.csv",
-    "https://raw.githubusercontent.com/gerynastiar/aoi/main/Hasil/SMBM/Manual/V2/SMBM_Manual_9.csv"
+    "https://raw.githubusercontent.com/gerynastiar/aoi/main/Hasil/SMBM/Manual/V3/SMBM_Manual_1.csv",
+    "https://raw.githubusercontent.com/gerynastiar/aoi/main/Hasil/SMBM/Manual/V3/SMBM_Manual_2.csv",
+    "https://raw.githubusercontent.com/gerynastiar/aoi/main/Hasil/SMBM/Manual/V3/SMBM_Manual_3.csv",
+    "https://raw.githubusercontent.com/gerynastiar/aoi/main/Hasil/SMBM/Manual/V3/SMBM_Manual_4.csv",
+    "https://raw.githubusercontent.com/gerynastiar/aoi/main/Hasil/SMBM/Manual/V3/SMBM_Manual_5.csv",
+    "https://raw.githubusercontent.com/gerynastiar/aoi/main/Hasil/SMBM/Manual/V3/SMBM_Manual_6.csv",
+    "https://raw.githubusercontent.com/gerynastiar/aoi/main/Hasil/SMBM/Manual/V3/SMBM_Manual_7.csv",
+    "https://raw.githubusercontent.com/gerynastiar/aoi/main/Hasil/SMBM/Manual/V3/SMBM_Manual_8.csv",
+    "https://raw.githubusercontent.com/gerynastiar/aoi/main/Hasil/SMBM/Manual/V3/SMBM_Manual_9.csv"
 ]
 
 
