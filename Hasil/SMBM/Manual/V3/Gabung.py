@@ -2,15 +2,15 @@ import pandas as pd
 
 # Daftar URL file CSV
 urls = [
-    "https://raw.githubusercontent.com/gerynastiar/aoi/main/Hasil/SMBM/Manual/V3/SMBM_Manual_1.csv",
-    "https://raw.githubusercontent.com/gerynastiar/aoi/main/Hasil/SMBM/Manual/V3/SMBM_Manual_2.csv",
-    "https://raw.githubusercontent.com/gerynastiar/aoi/main/Hasil/SMBM/Manual/V3/SMBM_Manual_3.csv",
-    "https://raw.githubusercontent.com/gerynastiar/aoi/main/Hasil/SMBM/Manual/V3/SMBM_Manual_4.csv",
-    "https://raw.githubusercontent.com/gerynastiar/aoi/main/Hasil/SMBM/Manual/V3/SMBM_Manual_5.csv",
-    "https://raw.githubusercontent.com/gerynastiar/aoi/main/Hasil/SMBM/Manual/V3/SMBM_Manual_6.csv",
-    "https://raw.githubusercontent.com/gerynastiar/aoi/main/Hasil/SMBM/Manual/V3/SMBM_Manual_7.csv",
-    "https://raw.githubusercontent.com/gerynastiar/aoi/main/Hasil/SMBM/Manual/V3/SMBM_Manual_8.csv",
-    "https://raw.githubusercontent.com/gerynastiar/aoi/main/Hasil/SMBM/Manual/V3/SMBM_Manual_9.csv"
+    # "https://raw.githubusercontent.com/gerynastiar/aoi/main/Hasil/SMBM/Manual/V3/SMBM_Manual_1.csv",
+    # "https://raw.githubusercontent.com/gerynastiar/aoi/main/Hasil/SMBM/Manual/V3/SMBM_Manual_2.csv",
+    # "https://raw.githubusercontent.com/gerynastiar/aoi/main/Hasil/SMBM/Manual/V3/SMBM_Manual_3.csv",
+    # "https://raw.githubusercontent.com/gerynastiar/aoi/main/Hasil/SMBM/Manual/V3/SMBM_Manual_4.csv",
+    # "https://raw.githubusercontent.com/gerynastiar/aoi/main/Hasil/SMBM/Manual/V3/SMBM_Manual_5.csv",
+    "https://raw.githubusercontent.com/gerynastiar/aoi/main/Hasil/SMBM/Manual/V3/SMBM_Manual_10.csv",
+    "https://raw.githubusercontent.com/gerynastiar/aoi/main/Hasil/SMBM/Manual/V3/SMBM_Manual_11.csv",
+    "https://raw.githubusercontent.com/gerynastiar/aoi/main/Hasil/SMBM/Manual/V3/SMBM_Manual_12.csv",
+    "https://raw.githubusercontent.com/gerynastiar/aoi/main/Hasil/SMBM/Manual/V3/SMBM_Manual_13.csv"
 ]
 
 
@@ -26,7 +26,7 @@ df_combined = pd.concat(dfs, ignore_index=True)
 # df_combined = df_combined.dropna(subset=['time'])
 
 # Simpan ke file CSV
-df_combined.to_csv("SMBM_Manual_All.csv", index=False)
+df_combined.to_csv("SMBM_Manual_Passenger.csv", index=False)
 
 print("sudah")
 
