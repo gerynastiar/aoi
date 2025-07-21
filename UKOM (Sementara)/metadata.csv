@@ -1,0 +1,21 @@
+Nama Variabel;Deskripsi;Tipe Data;Kategori 
+id_rt;Pengenal unik untuk setiap rumah tangga.;kategori;1 hingga 1356
+status_miskin;Status kemiskinan biner. Variabel target.;kategori;Miskin, Tidak Miskin
+jumlah_art;Jumlah total anggota rumah tangga.;numerik;
+pendidikan_krt;Tingkat pendidikan tertinggi Kepala Rumah Tangga (KRT).;kategori;Tidak Sekolah, SD, SMP, SMA, Diploma/S1+
+pendidikan_art_tertinggi;Tingkat pendidikan tertinggi dari SEMUA anggota rumah tangga.;kategori;Tidak Sekolah, SD, SMP, SMA, Diploma/S1+
+pekerjaan_krt;Sektor pekerjaan Kepala Rumah Tangga.;kategori;Formal, Informal (Non-Pertanian), Pertanian, Tidak Bekerja
+jenis_dinding;Bahan utama dinding luar rumah.;kategori;Tembok, Kayu/Papan, Bambu/Lainnya
+jenis_atap;Bahan utama atap rumah.;kategori;Beton/Genteng, Seng/Asbes, Ijuk/Lainnya
+jenis_lantai;Bahan utama lantai rumah.;kategori;Keramik/Marmer, Semen/Kayu, Tanah
+kepemilikan_toilet;Akses ke fasilitas toilet pribadi yang layak.;kategori;Milik Sendiri/Layak, Bersama/Tidak Layak
+sumber_air_minum;Akses ke sumber air minum yang layak/aman.;kategori;Layak, Tidak Layak
+daya_terpasang_pln;Kapasitas daya listrik terpasang dalam Volt-Ampere (VA).;kategori;450, 900, 1300, 2200, >2200
+konsumsi_listrik_kwh;Konsumsi listrik rata-rata bulanan dalam kWh.;numerik;
+jumlah_mobil;Jumlah mobil yang dimiliki rumah tangga.;numerik;
+jumlah_motor;Jumlah sepeda motor yang dimiliki rumah tangga.;numerik;
+kepemilikan_kulkas;Kepemilikan biner atas kulkas.;kategori;Ya, Tidak
+kepemilikan_mesin_cuci;Kepemilikan biner atas mesin cuci.;kategori;Ya, Tidak
+kepemilikan_ac;Kepemilikan biner atas Air Conditioner (AC).;kategori;Ya, Tidak
+kepemilikan_komputer;Kepemilikan biner atas komputer/laptop.;kategori;Ya, Tidak
+internet_kabel;Status berlangganan internet kabel (fixed broadband).;kategori;Ya, Tidak
