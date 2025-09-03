@@ -1,0 +1,47 @@
+import requests
+import pandas as pd
+import time
+
+# Daftar seluruh ID pelabuhan
+id_list = ['IDJKT']
+
+# Bulan 01–12
+months = [f"{i:02}" for i in range(1, 13)]
+
+# Tipe data: domestik dan luar negeri
+types = ["dn", "ln"]
+
+# Inisialisasi list kosong untuk semua data
+all_data = []
+
+# Mulai scraping
+for pelabuhan_id in id_list:
+    for tipe in types:
+        for bulan in months:
+            url = f"https://monitoring-inaportnet.dephub.go.id/monitoring/byPort/list/{pelabuhan_id}/{tipe}/2024/{bulan}"
+            print(f"Mengambil: {pelabuhan_id} | {tipe} | {bulan}")
+            try:
+                response = requests.get(url, timeout=10)
+                if response.status_code == 200:
+                    json_data = response.json()
+                    data = json_data.get("data", [])
+                    if data:
+                        df = pd.DataFrame(data)
+                        df["id_pelabuhan"] = pelabuhan_id
+                        df["tipe"] = tipe
+                        df["bulan"] = bulan
+                        all_data.append(df)
+                else:
+                    print(f"Gagal ({response.status_code}): {url}")
+            except Exception as e:
+                print(f"Error: {e} saat mengambil {url}")
+
+            time.sleep(0.2)  # Delay ringan agar tidak membebani server
+
+# Gabungkan semua data
+if all_data:
+    final_df = pd.concat(all_data, ignore_index=True)
+    final_df.to_excel("inaportnet_tpr_2024.xlsx", index=False)
+    print("✅ Data berhasil disimpan ke 'inaportnet_semua_data_2023.xlsx'")
+else:
+    print("❌ Tidak ada data yang berhasil diambil.")
